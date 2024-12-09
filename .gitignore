@@ -1,0 +1,13 @@
+node_modules/
+.idea
+.openzeppelin
+.openzeppelin*
+secret.json
+secret.*.json
+backup/
+cache/
+.openzeppelin/.session
+build/
+artifacts/
+.DS_Store
+scripts/*
